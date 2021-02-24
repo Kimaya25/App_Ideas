@@ -1,0 +1,90 @@
+
+
+1)  Travel app:
+Sign up page
+search screen
+search screen will take you to a
+new page with the informaion
+about the place you searched for.
+-React-native
+-React-native-elements
+-React-navigation
+-
+
+
+2) Movie review app
+Sign up page
+2 Tab icons. First icon takes you to a page
+ where you can write your review.Second
+icon takes you to a search screen where you can
+search for the movie.
+The search takes you to a new page with the reviews for 
+that movie.
+
+
+3) Organizer app
+Sign up screen
+Welcome screen with a sider drawer that 
+has the options for a page with a to do list
+and a page with the daily and monthly timetable.
+
+
+4) picture app
+sign up page
+a camera screen, where you can take a 
+picture of any object. The object is scanned 
+and then it takes you to another page 
+with the google searches for that object.
+
+
+5) music app
+Sign Up screen
+A screen with a recording option.
+Once you record the song of your choice it 
+takes you to a page with the information of 
+the song.
+
+
+6) shopping app
+sign up page
+screen with a search bar, where you can search the 
+item of your choice. The search will take you to
+a new page with the details of th shop from
+where you can buy the object.
+
+
+- Daily news app
+sign up screen
+there is a page with the daily updates of
+things happening around the world.
+A side drawer that has the option to go to
+a page where you can check notifications and a search screen that 
+lets you search for the particular event you are looking
+for. On the main page there will be a filter option
+from where you can decide the country, kind of news etc
+
+
+- cookbook app
+Sign up scree
+A page where you can scroll through the lates and 
+most trending recepies. A search icon on top 
+that allows you to search for the dish of your choice.
+
+
+- translation app
+A sign up screen
+A screen where you can select the language you are going to 
+speak in and the language you want it translated to.
+Then it takes you to a screen where you can record. After
+you press enter it takes you to a screen that shows the translation in text
+there will also be an option using which you can hear the translation by audio.
+
+
+- water app
+Sign up page
+There will be a welcome screen where 
+you will have to fill in details like
+what time intervals do you want and what sound
+would you like as a reminder. It then takes you to a screen
+where you can start the reminder option.
+- 
